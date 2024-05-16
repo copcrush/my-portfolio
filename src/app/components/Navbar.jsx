@@ -35,8 +35,8 @@ const Navbar = () => {
             src="/images/Copcrush.png"
             className="h-8 me-3"
             alt="Copcrush Logo"
-            width={500}
-            height={500}
+            width={240}
+            height={240}
             style={{ width: "100%", height: "100%" }}
           />
         </Link>

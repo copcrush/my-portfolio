@@ -26,7 +26,7 @@ const FooterSection = () => {
                 <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
                   Follow me
                 </h2>
-                <ul className="text-gray-500 dark:text-gray-400 font-medium">
+                <ul className="text-gray-500 dark:text-gray-400 font-medium text-sm">
                   <li className="mb-4">
                     <Link
                       href="https://github.com/copcrush"
@@ -49,12 +49,12 @@ const FooterSection = () => {
                 <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
                   Contact
                 </h2>
-                <ul className="text-gray-500 dark:text-gray-400 font-medium">
+                <ul className="text-gray-500 dark:text-gray-400 font-medium text-sm">
                   <li className="mb-4">
-                    <div className="hover:underline">(+66) 9 6924 2515</div>
+                    <div className="hover:underline">096-924-2515</div>
                   </li>
                   <li>
-                    <div className="hover:underline">copnavaphan@gmail</div>
+                    <div className="hover:underline">navaphan.si@gmail</div>
                   </li>
                 </ul>
               </div>
