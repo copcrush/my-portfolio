@@ -72,6 +72,11 @@ const TAB_DATA = [
           <br />
           Successfully Completed on 13 May 2024
         </li>
+        <li>
+          Get Started with Programming - FutureSkill
+          <br />
+          Successfully Completed on 15 May 2024
+        </li>
       </ul>
     ),
   },
